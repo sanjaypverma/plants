@@ -5,4 +5,4 @@ Roots are integral to the structure and wellbeing of plants, but current technol
 
 In order to run the program, use python3. New feature additions include a continuous annotation mode in which a new index can be added by using [shift + left MB] to add a new point, and [option + left MB] to remove the point just placed down. This feature alone cut down on most of the time and complication of using the software. 
 
-A video guide of how to use the updated software and features is now available [here](https://www.youtube.com/watch?v=2-c1k70magw)
+A video guide of how to use the updated software and features is now available [here](https://www.youtube.com/watch?v=2-c1k70magw).
